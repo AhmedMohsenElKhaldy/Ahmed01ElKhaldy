@@ -28,7 +28,6 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**. I love building projects, improv
 ---
 
 ### 🏆 Achievements & Certificates <img src="https://media.giphy.com/media/26FPnsRww5Zm4/giphy.gif" width="30">
-- 10 - OOP as it should be (concepts) (Programming Advices)
 - Completed 9+ courses in Abu-Hadhoud Roadmap (Programming Advices)
 - Solved 400+ programming problems
 
