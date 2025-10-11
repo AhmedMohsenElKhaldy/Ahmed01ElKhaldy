@@ -96,7 +96,7 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**. I love building projects, improv
 
 ```cpp
 // Focused on mastering the stack
-class AhmedYaserMt {
+class AhmedMohsenKH {
 public:
   string university = "Bani-Suef University";
   string track = "Full Stack Developer";
