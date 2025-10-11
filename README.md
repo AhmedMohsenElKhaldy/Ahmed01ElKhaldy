@@ -81,13 +81,13 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**. I love building projects, improv
 
 ### 📬 Contact Information <img src="https://media.giphy.com/media/jqNPzdTTxQfOgOqpO4/giphy.gif" width="30">
 <div align="center">
-  <a href="https://www.linkedin.com/in/ahmed-yaser-mt">
+  <a href="[https://www.linkedin.com/in/ahmed-yaser-mt](https://www.linkedin.com/in/ahmed-mohsen-elkhaldy-9226b32b5)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ahmed.yaser.mt@gmail.com">
+  <a href="ahmedmohsensaid1@gmil.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://wa.me/201014842264">
+  <a href="https://wa.me/201152034622">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </div>
