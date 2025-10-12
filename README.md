@@ -4,43 +4,42 @@
 
 </div>
 
-<hr>
+---
 
-### 👋 Hello! I'm **Ahmed Mohsen ElKhaldy** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-A student passionate about programming 🚀. Currently learning **C++**, **OOP** and problem-solving using **Visual Studio** to build my skills 💻.  
-Also, I'm a student in **Abu-Hadhoud Roadmap**. I love building projects, improving my skills, and sharing my progress with the community.
+### 👋 Hello! I'm *Ahmed Mohsen* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+An aspiring *Software Developer* and a recent graduate from *Bani-Suef University* 🎓. 
+I am passionate about programming and problem-solving 🚀. Currently focusing on building a solid foundation in programming by mastering *C++ fundamentals* and *Object-Oriented Programming (OOP), and honing my problem-solving skills using **Visual Studio* 💻.
+
+I am actively following the *Abu-Hadhoud Roadmap (Programming Advices)* and have successfully completed *9 foundational courses*. I enjoy building small projects to apply my knowledge and share my progress with the community.
 
 ---
 
-### 🛠️ Skills & Tools <img src="https://media.giphy.com/media/3o7TKPdUkkbCAVqW4w/giphy.gif" width="30">
+### 🛠 Skills & Essential Tools <img src="https://media.giphy.com/media/3o7TKPdUkkbCAVqW4w/giphy.gif" width="30">
 <div align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
 </div>
-
 ---
 
 ### 💻 Featured Projects <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
-- [Project 1 ( Stone - Paper - Scissor )](https://github.com/Ahmed01Elkhaldy/Project1-Stone-Paper-Scissor.git))
-- [Project 2 (Math Game)](https://github.com/Ahmed01Elkhaldy/Project-2-Math-Game-.git))
-- [Project 3 (Full System Bank](https://github.com/Ahmed01Elkhaldy/Full-System-Bank..git))
-
-
-
+- [Project 1 ( Stone - Paper - Scissor )](https://github.com/Ahmed01Elkhaldy/Project1-Stone-Paper-Scissor.git)
+- [Project 2 (Math Game)](https://github.com/Ahmed01Elkhaldy/Project-2-Math-Game-.git)
+- [Project 3 (Full System Bank](https://github.com/Ahmed01Elkhaldy/Full-System-Bank..git)
 ---
 
 ### 🏆 Achievements & Certificates <img src="https://media.giphy.com/media/26FPnsRww5Zm4/giphy.gif" width="30">
-- Completed 9+ courses in Abu-Hadhoud Roadmap (Programming Advices)
-- Solved 400+ programming problems
+- *Graduate of Bani-Suef University* 🎓
+- Completed *9+ foundational courses* in programming from Abu-Hadhoud Roadmap (Programming Advices).
+- Dedicated to mastering programming fundamentals and concepts.
 
 ---
 
 ### 🎯 Currently Working On <img src="https://media.giphy.com/media/xT8qBepJQzUjXpeWU8/giphy.gif" width="30">
-- **Abu-Hadhoud Roadmap**
-- Mastering **C++** & **OOP** 💡  
-- Algorithms and Problem Solving  
-- Practicing with small projects 🛠️  
-- Improving my professional profile on **GitHub** and **LinkedIn**
+- Completing the *Abu-Hadhoud Roadmap* and advancing to intermediate stages.
+- Mastering *C++* and *Object-Oriented Programming (OOP)* concepts 💡.
+- Enhancing my skills in *Algorithms and Problem Solving*.
+- Building more small application projects 🛠.
+- Improving my professional profile on *GitHub* and *LinkedIn*.
 
 ---
 
@@ -50,7 +49,7 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**. I love building projects, improv
 
 ---
 
-<div align="center"> 
+<div align="center">
   <table> 
     <tr> 
       <td> 
@@ -82,9 +81,9 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**. I love building projects, improv
 ### 📬 Contact Information <img src="https://media.giphy.com/media/jqNPzdTTxQfOgOqpO4/giphy.gif" width="30">
 <div align="center">
   <a href="(https://www.linkedin.com/in/ahmed-mohsen-elkhaldy-9226b32b5?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1OmNplujRF2mqyBNfagGIw%3D%3D)">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img-shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="ahmedmohsensaid1@gmil.com">
+  <a href="mailto:ahmedmohsensaid1@gmil.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://wa.me/201152034622">
@@ -95,11 +94,11 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**. I love building projects, improv
 ---
 
 ```cpp
-// Focused on mastering the stack
-class AhmedMohsenKH {
+// Focused on building a solid foundation in programming
+class AhmedMohsen {
 public:
-  string university = "Bani-Suef University";
-  string track = "Full Stack Developer";
-  string passion = "Problem Solving & Building Projects";
-  void sayHi() { cout << "Thanks for visiting my profile! 🚀"; }
+  string university = "Bani-Suef University Graduate";
+  string focus = "Mastering C++ & OOP Fundamentals";
+  string passion = "Problem Solving & Building Applied Projects";
+  void sayHi() { cout << "Thanks for visiting my profile! Let's keep learning and growing 🚀"; }
 };
