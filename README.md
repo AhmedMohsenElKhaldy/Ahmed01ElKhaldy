@@ -80,10 +80,10 @@ I am actively following the *Abu-Hadhoud Roadmap (Programming Advices)* and have
 
 ### 📬 Contact Information <img src="https://media.giphy.com/media/jqNPzdTTxQfOgOqpO4/giphy.gif" width="30">
 <div align="center">
-  <a href="(https://www.linkedin.com/in/ahmed-mohsen-elkhaldy-9226b32b5?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1OmNplujRF2mqyBNfagGIw%3D%3D)">
-    <img src="https://img-shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/ahmed-mohsen-elkhaldy-9226b32b5">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ahmedmohsensaid1@gmil.com">
+  <a href="mailto:ahmedmohsensaid1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://wa.me/201152034622">
@@ -102,3 +102,4 @@ public:
   string passion = "Problem Solving & Building Applied Projects";
   void sayHi() { cout << "Thanks for visiting my profile! Let's keep learning and growing 🚀"; }
 };
+
