@@ -73,7 +73,7 @@ I am actively following the *Abu-Hadhoud Roadmap (Programming Advices)* and have
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/AhmedMohsenElKhaldy?label=Followers&style=for-the-badge&logo=github&color=1f6feb" />
+  <img src="[https://img.shields.io/github/followers/AhmedMohsenElKhaldy?label=Followers&style=for-the-badge&logo=github&color=1f6feb](https://img.shields.io/github/followers/AhmedMohsenElkhaldy?label=Followers&style=for-the-badge&color=green)" />
 </p>
 
 
