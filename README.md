@@ -49,8 +49,16 @@ I am actively following the *Abu-Hadhoud Roadmap (Programming Advices)* and have
 </div>
 
 ---
-
 <div align="center"> 
+
+  <img src="https://github-profile-trophy.vercel.app/?username=AhmedMohsenElKhaldy&theme=dracula&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  
+  <br>
+
+  <img src="https://img.shields.io/github/followers/AhmedMohsenElKhaldy?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+  
+  <br>
+
   <table> 
     <tr> 
       <td> 
@@ -61,21 +69,11 @@ I am actively following the *Abu-Hadhoud Roadmap (Programming Advices)* and have
       </td> 
     </tr> 
   </table> 
+  
   <br> 
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMohsenElKhaldy&layout=compact&theme=dark&hide_border=false&v=1" alt="Top Languages" /> 
 </div>
----
-
-
-## 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=AhmedMohsenElKhaldy&theme=darkhub&no-frame=true&no-bg=true&margin-w=5)
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/AhmedMohsenElKhaldy?label=Followers&style=for-the-badge&logo=github&color=1f6feb" />
-</p>
-
 
 
 ### 📬 Contact Information <img src="https://media.giphy.com/media/jqNPzdTTxQfOgOqpO4/giphy.gif" width="30">
