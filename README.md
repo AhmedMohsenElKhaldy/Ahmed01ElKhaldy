@@ -50,12 +50,6 @@ I am actively following the *Abu-Hadhoud Roadmap (Programming Advices)* and have
 
 ---
 
-<div align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="100" />
-</div>
-
----
-
 <div align="center"> 
   <table> 
     <tr> 
@@ -75,8 +69,7 @@ I am actively following the *Abu-Hadhoud Roadmap (Programming Advices)* and have
 
 
 ## 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=AhmedMohsen-ElKhaldy&theme=darkhub&no-frame=true&no-bg=true&margin-w=5)
-
+![Trophy](https://github-profile-trophy.vercel.app/?username=AhmedMohsen&theme=darkhub&no-frame=true&no-bg=true&margin-w=5)
 
 ---
 
