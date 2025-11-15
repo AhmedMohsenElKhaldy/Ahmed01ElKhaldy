@@ -54,26 +54,26 @@ I am actively following the *Abu-Hadhoud Roadmap (Programming Advices)* and have
   <table> 
     <tr> 
       <td> 
-        <img src="https://github-readme-stats.vercel.app/api?username=AhmedMohsenElkhaldy&show_icons=true&theme=dark&hide_border=false&count_private=true&v=1" alt="AhmedMohsenElkhaldy's GitHub stats" /> 
+        <img src="https://github-readme-stats.vercel.app/api?username=AhmedMohsenElkhaldy&show_icons=true&theme=dark&hide_border=false&count_private=true&v=1" alt="AhmedMohsenElKhaldy's GitHub stats" /> 
       </td> 
       <td> 
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMohsenElkhaldy&theme=dark&hide_border=false&v=1" alt="GitHub Streak" /> 
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMohsenElKhaldy&theme=dark&hide_border=false&v=1" alt="GitHub Streak" /> 
       </td> 
     </tr> 
   </table> 
   <br> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMohsenElkhaldy&layout=compact&theme=dark&hide_border=false&v=1" alt="Top Languages" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMohsenElKhaldy&layout=compact&theme=dark&hide_border=false&v=1" alt="Top Languages" /> 
 </div>
 ---
 
 
 ## 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=AhmedMohsen&theme=darkhub&no-frame=true&no-bg=true&margin-w=5)
+![Trophy](https://github-profile-trophy.vercel.app/?username=AhmedMohsenElKhaldy&theme=darkhub&no-frame=true&no-bg=true&margin-w=5)
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/AhmedMohsen?label=Followers&style=for-the-badge&logo=github&color=1f6feb" />
+  <img src="https://img.shields.io/github/followers/AhmedMohsenElKhaldy?label=Followers&style=for-the-badge&logo=github&color=1f6feb" />
 </p>
 
 ---
