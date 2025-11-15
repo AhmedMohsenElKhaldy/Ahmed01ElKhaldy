@@ -50,15 +50,21 @@ I am actively following the *Abu-Hadhoud Roadmap (Programming Advices)* and have
 
 ---
 <div align="center"> 
-
+  
+  ## 🏆 إنجازات GitHub (Trophies)
+  
   <img src="https://github-profile-trophy.vercel.app/?username=AhmedMohsenElKhaldy&theme=dracula&no-frame=true&no-bg=true" alt="GitHub Trophies" />
   
-  <br>
-
+  ---
+  
+  ## 👥 المتابعون (Followers)
+  
   <img src="https://img.shields.io/github/followers/AhmedMohsenElKhaldy?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
   
-  <br>
-
+  ---
+  
+  ## 📊 إحصائيات GitHub الرئيسية
+  
   <table> 
     <tr> 
       <td> 
@@ -70,11 +76,13 @@ I am actively following the *Abu-Hadhoud Roadmap (Programming Advices)* and have
     </tr> 
   </table> 
   
-  <br> 
+  ---
+  
+  ## 💻 أبرز اللغات
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMohsenElKhaldy&layout=compact&theme=dark&hide_border=false&v=1" alt="Top Languages" /> 
+  
 </div>
-
 
 ### 📬 Contact Information <img src="https://media.giphy.com/media/jqNPzdTTxQfOgOqpO4/giphy.gif" width="30">
 <div align="center">
