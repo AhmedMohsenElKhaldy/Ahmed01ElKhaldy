@@ -24,8 +24,8 @@ I am actively following the *Abu-Hadhoud Roadmap (Programming Advices)* and have
 ### 💻 Featured Projects <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
 - [Project 1 ( Stone - Paper - Scissor )](https://github.com/Ahmed01Elkhaldy/Project1-Stone-Paper-Scissor.git)
 - [Project 2 (Math Game)](https://github.com/Ahmed01Elkhaldy/Project-2-Math-Game-.git)
-- [Project 3 (Full System Bank](https://github.com/Ahmed01Elkhaldy/Full-System-Bank..git)
-- [Project 4 (Full System Bank - OOP](https://github.com/Ahmed01Elkhaldy/Bank-Project-By-OOP-.git).
+- [Project 3 (Full System Bank)](https://github.com/Ahmed01Elkhaldy/Full-System-Bank..git)
+- [Project 4 (Full System Bank - OOP)](https://github.com/Ahmed01Elkhaldy/Bank-Project-By-OOP-.git)
 ---
 
 ### 🏆 Achievements & Certificates <img src="https://media.giphy.com/media/26FPnsRww5Zm4/giphy.gif" width="30">
